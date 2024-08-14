@@ -48,6 +48,7 @@ Some collaborative efforts to make Ethereum enterprise friendly have been made b
 - [Envision Blockchain](https://envisionblockchain.com/) - _provides enterprise focused consulting and development services specializing in Ethereum Mainnet_
 - [EY OpsChain](https://blockchain.ey.com/products/contract-manager) - _provides a procurement workflow by issuing RFQ’s, contracts, purchase orders, and invoices across your network of trusted business partners_
 - [Hyperledger Besu](https://www.hyperledger.org/use/besu) - _an enterprise focused open-source Ethereum client developed under the Apache 2.0 license and written in Java_
+- [Hyperledger Web3j](https://www.hyperledger.org/projects/web3j) - _a modular, reactive, type safe Java and Android library for working with Smart Contracts and integrating with clients (nodes) on the Ethereum network._
 - [Infura](https://infura.io/) - _scalable API access to the Ethereum and IPFS networks_
 - [Kaleido](https://kaleido.io/) - _an enterprise-focused development platform that offers simplified blockchain and digital asset applications_
 - [NodeReal](https://nodereal.io/) - _provides scalable blockchain infrastructure and API services provider for the Web3 ecosystem_
